@@ -1,0 +1,30 @@
+enter the size of currency denominations available
+3
+Enter the values of the currency denominations
+5
+1
+10
+Enter the amount you want to pay
+12
+Number of Rs.10=1
+Number of Rs.5=0
+Number of Rs.1=2
+Amount paid
+
+
+-------------------------------------------------
+
+enter the size of currency denominations available
+5
+Enter the values of the currency denominations
+60
+5
+12
+78
+25
+Enter the amount you want to pay
+128
+Number of Rs.78=1
+Number of Rs.60=0
+Number of Rs.25=2
+Amount paid

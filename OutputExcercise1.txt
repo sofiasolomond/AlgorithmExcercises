@@ -1,0 +1,29 @@
+
+Pay money transactions
+enter the size of transaction array
+3
+Enter the values of the transactions
+20
+12
+31
+Enter the total number of targets
+2
+Enter the value of 1 target
+21
+Target of 21 Achieved in 2 transactions
+Enter the value of 2 target
+19
+Target of 19 Achieved in 1 transactions
+
+------------------
+
+Pay money transactions
+enter the size of transaction array
+1
+Enter the values of the transactions
+100
+Enter the total number of targets
+1
+Enter the value of 1 target
+101
+Target not achieved
